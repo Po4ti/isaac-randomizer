@@ -1,0 +1,41 @@
+import { PlayerType } from "isaac-typescript-definitions";
+
+export const UNLOCKABLE_CHARACTER_COUNT = 33;
+
+export enum StartingCharacters {
+  ISAAC = PlayerType.ISAAC,
+  MAGDALENE = PlayerType.MAGDALENE,
+  CAIN = PlayerType.CAIN,
+  JUDAS = PlayerType.JUDAS,
+  BLUE_BABY = PlayerType.BLUE_BABY,
+  EVE = PlayerType.BLUE_BABY,
+  SAMSOM = PlayerType.SAMSON,
+  AZAZEL = PlayerType.AZAZEL,
+  LAZARUS = PlayerType.LAZARUS,
+  EDEN = PlayerType.EDEN,
+  LOST = PlayerType.LOST,
+  LILITH = PlayerType.LILITH,
+  KEEPER = PlayerType.KEEPER,
+  APOLLYON = PlayerType.APOLLYON,
+  FORGOTTEN = PlayerType.FORGOTTEN,
+  BETHANY = PlayerType.BETHANY,
+  JACOB = PlayerType.JACOB,
+
+  ISAAC_B = PlayerType.ISAAC_B,
+  MAGDALENE_B = PlayerType.MAGDALENE_B,
+  CAIN_B = PlayerType.CAIN_B,
+  JUDAS_B = PlayerType.JUDAS_B,
+  BLUE_BABY_B = PlayerType.BLUE_BABY_B,
+  EVE_B = PlayerType.BLUE_BABY_B,
+  SAMSOM_B = PlayerType.SAMSON_B,
+  AZAZEL_B = PlayerType.AZAZEL_B,
+  LAZARUS_B = PlayerType.LAZARUS_B,
+  EDEN_B = PlayerType.EDEN_B,
+  LOST_B = PlayerType.LOST_B,
+  LILITH_B = PlayerType.LILITH_B,
+  KEEPER_B = PlayerType.KEEPER_B,
+  APOLLYON_B = PlayerType.APOLLYON_B,
+  FORGOTTEN_B = PlayerType.FORGOTTEN_B,
+  BETHANY_B = PlayerType.BETHANY_B,
+  JACOB_B = PlayerType.JACOB_B,
+}

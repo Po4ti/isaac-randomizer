@@ -1,0 +1,394 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Страница — 1" id="jC4Sw3wV_JuoVrFF8j-P">
+    <mxGraphModel dx="1579" dy="1068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Возможные анлоки&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-4" value="33 Персонажа" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="261" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-5" value="45 Челленджей" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="91" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxdJFJJsGSpilDP2c3m9-6" target="xxdJFJJsGSpilDP2c3m9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-6" value="11 Локациий" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-7" value="Локации" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="400" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-8" value="8 Обычных Альтов" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-7">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-10" value="3 Репентанс Альта" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-7">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxdJFJJsGSpilDP2c3m9-11" target="xxdJFJJsGSpilDP2c3m9-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-11" value="8 Путей" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="171" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-13" value="Пути" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="101" width="140" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-18" value="Чест" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-13">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-23" value="Дарк рума" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-13">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-17" value="Босс Раш" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-13">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-16" value="Хаш" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-13">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-14" value="Витнесс" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-13">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-15" value="Бист" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-13">
+          <mxGeometry y="180" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-19" value="Грид" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-13">
+          <mxGeometry y="210" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-20" value="Дебилиум" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-13">
+          <mxGeometry y="240" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-24" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Открытые вопросы&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="-50" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxdJFJJsGSpilDP2c3m9-25" target="xxdJFJJsGSpilDP2c3m9-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxdJFJJsGSpilDP2c3m9-25" target="xxdJFJJsGSpilDP2c3m9-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-25" value="Антиберз путь&lt;div&gt;не открыт, игрок&lt;/div&gt;&lt;div&gt;открывает альт&lt;/div&gt;&lt;div&gt;для него&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="49" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-26" value="Свап ачивок" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="169" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-27" value="Ачивка откроется и будет иметь смысл только после открытия пути" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="79" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxdJFJJsGSpilDP2c3m9-31" target="xxdJFJJsGSpilDP2c3m9-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xxdJFJJsGSpilDP2c3m9-31" target="xxdJFJJsGSpilDP2c3m9-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2380" y="343" />
+              <mxPoint x="2380" y="474" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-31" value="Усложненная прогрессия анлоков" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="283" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-32" value="Ачивки не детерминированы полностью, следующий анлок зависит от текущих анлоков&lt;br&gt;(следующее качество можно открыть только после открытия % айтемов предыдущего)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="300" width="250" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-33" value="Ачивки полностью детерминированы. Качество открываемого предмета зависит от глубины положения ачивки." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="429" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxdJFJJsGSpilDP2c3m9-36" target="xxdJFJJsGSpilDP2c3m9-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="480" />
+              <mxPoint x="340" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-36" value="10 Спешл рум" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxdJFJJsGSpilDP2c3m9-37" target="xxdJFJJsGSpilDP2c3m9-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-37" value="Комнаты" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="510" width="140" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-40" value="Планетариумы" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-37">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-50" value="Аркады" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-37">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-51" value="Челендж румы" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-37">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-52" value="Керс румы" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-37">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-53" value="Сак румы" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-37">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-57" value="Библиотеки" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-37">
+          <mxGeometry y="180" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-60" value="Ваульт" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-37">
+          <mxGeometry y="210" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-61" value="Дайс румы" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-37">
+          <mxGeometry y="240" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-62" value="Спальни" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-37">
+          <mxGeometry y="270" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-63" value="Кравл спейс" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-37">
+          <mxGeometry y="300" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-42" value="Открытые комнаты" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="510" width="140" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-38" value="Золотые" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-42">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-39" value="Магазины" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-42">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-54" value="Секретки" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-42">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-55" value="Супер Секретки" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-42">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-56" value="Гига Секретки" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-42">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-58" value="Дьявол" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-42">
+          <mxGeometry y="180" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-59" value="Ангел" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-42">
+          <mxGeometry y="210" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-64" value="Эррор рума" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-42">
+          <mxGeometry y="240" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-65" value="Блэк маркет (не через кравл спейс)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-42">
+          <mxGeometry y="270" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxdJFJJsGSpilDP2c3m9-68" target="xxdJFJJsGSpilDP2c3m9-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xxdJFJJsGSpilDP2c3m9-68" target="xxdJFJJsGSpilDP2c3m9-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2380" y="599" />
+              <mxPoint x="2380" y="699" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-68" value="В мешке ткаина&lt;div&gt;выпадает рецепт&lt;/div&gt;&lt;div&gt;закрытого&lt;/div&gt;&lt;div&gt;предмета.&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="539" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-70" value="Вместо предмета молоко" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="569" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-71" value="Крафтится другой открытый предмет" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="669" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxdJFJJsGSpilDP2c3m9-74" target="xxdJFJJsGSpilDP2c3m9-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="590" />
+              <mxPoint x="400" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-74" value="701 Предмет" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-75" value="Открытые" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="870" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-76" value="Молоко" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-75">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-77" value="4 Стат Апа с боссов" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-75">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xxdJFJJsGSpilDP2c3m9-79" target="xxdJFJJsGSpilDP2c3m9-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xxdJFJJsGSpilDP2c3m9-79" target="xxdJFJJsGSpilDP2c3m9-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-79" value="Предмет открылся.&lt;div&gt;Когда он может&lt;/div&gt;&lt;div&gt;появляться&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="789" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-80" value="С текущего забега" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="819" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-81" value="Со следующего забега" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="909" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xxdJFJJsGSpilDP2c3m9-86" target="xxdJFJJsGSpilDP2c3m9-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxdJFJJsGSpilDP2c3m9-86" target="xxdJFJJsGSpilDP2c3m9-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2370" y="1068" as="sourcePoint" />
+            <mxPoint x="2430" y="1169.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2380" y="1068" />
+              <mxPoint x="2380" y="1169" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-86" value="Эффекты метронома" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="1009" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-87" value="Только открытых предметов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="1039" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-88" value="Всех предметов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2410" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-92" value="188 Тринкетов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-93" value="96 Карт/рун" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-94" value="50 Пилюль" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xxdJFJJsGSpilDP2c3m9-95" target="xxdJFJJsGSpilDP2c3m9-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-95" value="41 Пикап" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-96" value="Типы пикапов" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="870" width="140" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-97" value="11 Сердец" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-96">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-98" value="6 Монет" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-96">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-99" value="2 Бомбы" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-96">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-103" value="3 Ключа" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-96">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-104" value="4 Батареи" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-96">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-108" value="2 Мешка" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-96">
+          <mxGeometry y="180" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-110" value="10 Сундуков" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-96">
+          <mxGeometry y="210" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-126" value="3 Улучшения пикапов" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-96">
+          <mxGeometry y="240" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-102" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Перепроверить&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="610" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xxdJFJJsGSpilDP2c3m9-111" target="xxdJFJJsGSpilDP2c3m9-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-111" value="15 Объектов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-113" value="Типы объектов" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1010" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-114" value="8 Беггаров" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-113">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-115" value="7 Машин" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-113">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xxdJFJJsGSpilDP2c3m9-118" target="xxdJFJJsGSpilDP2c3m9-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-118" value="15 Препятствий" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-119" value="Типы препятствий" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1151" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-120" value="7 Камней" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-119">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-121" value="4 Говна" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-119">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-122" value="2 Костра" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-119">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-123" value="2 Шопкипера" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xxdJFJJsGSpilDP2c3m9-119">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-127" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-9" width="30" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-128" value="45 + 8 + 33 + 11 + 10 + 701 + &lt;br&gt;+ 188 + 96 + 50 + 41 + 15 + 15 =&lt;div&gt;= 1213&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="11" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-129" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Возможные способы открытия&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="-30" width="250" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-130" value="34 Персонажа" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="151" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-131" value="13 Финальных боссов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="111" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-132" value="x" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="166" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-135" value="18 Этажей без урона" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-136" value="104 Босса&lt;div&gt;Таймер без урона&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="106" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-137" value="45 Челленджей" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="196" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-138" value="Итого:&amp;nbsp;1213" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="136" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-140" value="100 монет в донат машине x 10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="156" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-141" value="+" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="166" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-142" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Описание&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="386" width="250" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-143" value="Достижения на прохождения этажа без урона требуют прохождение всех обычных комнат (Т. е. без босса и других спешл рум)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="450" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-144" value="Таймер на боссах по умолчанию 2 минуты.&lt;div&gt;Если игрок стоит на месте, таймер начинает ускоряться.&lt;br&gt;Если игрок получает неуязвимость, таймер останавливается.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="550" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-145" value="Дарк руму и чест гарантированно можно открыть за айзека" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="449" width="250" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-146" value="1 персонаж открывает другого персонажа за одну из финальных целей по пути в чест/дарк руму. И так по цепочке" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="550" width="250" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="xxdJFJJsGSpilDP2c3m9-147" value="Молоко + 4 стат апа с боссов открыты изначально" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="659" width="250" height="81" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,1 @@
+import { CollectibleType } from "isaac-typescript-definitions";

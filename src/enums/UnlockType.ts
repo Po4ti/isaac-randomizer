@@ -1,0 +1,27 @@
+export enum UnlockType {
+  UNRESOLVED,
+  CHALLENGE,
+  ROUTE,
+  CHARACTER,
+  FLOOR,
+  ROOM,
+  ITEM,
+  TRINKET,
+  CARDRUNE,
+  PILL,
+  PICKUP,
+  OBJECT,
+  OBSTACLE,
+}
+
+export enum RouteType {
+  BOSS_RUSH,
+  BLUE_WOMB,
+  CHEST,
+  DARK_ROOM,
+  GREED,
+  VOID,
+  CORPSE,
+  ASCEND,
+}
+

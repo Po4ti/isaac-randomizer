@@ -1,19 +1,30 @@
-import { ModCallback } from "isaac-typescript-definitions";
+import { CardType, Challenge, Keyboard, ModCallback } from "isaac-typescript-definitions";
 import { name } from "../package.json";
+import { ISCFeature, jsonEncode, upgradeMod } from "isaacscript-common";
+import { GetUnlockedChallenges, UnlockAchievement, } from "./saves/savefile";
+import { UnlockType } from "./enums/UnlockType";
+import { UnlockVariant, UnlockSubType } from "./classes/Unlock";
+import { mod } from "./mod";
+import { AchievementData, generateAchievementData } from "./classes/Achievement";
+import { UnlockData } from "./classes/UnlockData";
 
-// This function is run when your mod first initializes.
+
+
 export function main(): void {
-  // Instantiate a new mod object, which grants the ability to add callback functions that
-  // correspond to in-game events.
-  const mod = RegisterMod(name, 1);
 
-  // Register a callback function that corresponds to when a new player is initialized.
-  mod.AddCallback(ModCallback.POST_PLAYER_INIT, postPlayerInit);
-
-  // Print a message to the "log.txt" file.
   Isaac.DebugString(`${name} initialized.`);
+
+  mod.saveDataManagerSave();
+  mod.setConditionalHotkey(() => Keyboard.D, debugTrigger);
+
 }
 
-function postPlayerInit() {
-  Isaac.DebugString("Callback fired: POST_PLAYER_INIT");
+
+function debugTrigger() {
+  generateAchievementData();
+  Isaac.ConsoleOutput("text")
+  mod.saveDataManagerSave();
+
+  let challenges = GetUnlockedChallenges();
+  Isaac.ConsoleOutput(challenges.length.toString());
 }
